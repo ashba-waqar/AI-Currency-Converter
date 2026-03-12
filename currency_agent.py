@@ -5,7 +5,7 @@ from langchain_core.tools import tool
 from langgraph.prebuilt import create_react_agent
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC2rIYD7tX8AgFLNrVwq_Rnlyc4RYTrzkA"
+os.environ["GOOGLE_API_KEY"] = "YOUR_API_KEY_HERE"
 
 
 @tool
